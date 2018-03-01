@@ -1,0 +1,6 @@
+# script name 1 #
+f(x)=sin(x);
+f(pi)
+# script name 2 #
+f(x)=cos(x);
+f(pi)
